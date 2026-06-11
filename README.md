@@ -19,7 +19,7 @@ I build and study practical AI systems across machine learning, deep learning, L
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipul-dahal-829b0a219/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dahalbipul999@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imarobot00)
+[![GitHub](https://img.shields.io/badge/GitHub-imarobot00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imarobot00)
 
 </div>
 ---
