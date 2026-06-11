@@ -22,34 +22,6 @@ I build and study practical AI systems across machine learning, deep learning, L
 [![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imarobot00)
 
 </div>
-
----
-
-## Current Focus
-
-<table>
-  <tr>
-    <td width="50%">
-      <strong>AI Engineering</strong><br />
-      Building applied AI systems with reliable inference, evaluation, monitoring, and deployment workflows.
-    </td>
-    <td width="50%">
-      <strong>LLM and RAG Systems</strong><br />
-      Designing retrieval pipelines, reranking flows, prompt workflows, and evaluation harnesses for grounded generation.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Machine Learning and Deep Learning</strong><br />
-      Studying model development, training pipelines, evaluation, and practical deployment constraints.
-    </td>
-    <td width="50%">
-      <strong>AI Security and Networking</strong><br />
-      Exploring intrusion detection, secure AI systems, network behavior analysis, and adversarial risks.
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## About Me
@@ -123,60 +95,6 @@ I am especially interested in how AI systems move from experiments to reliable a
 ![SDN](https://img.shields.io/badge/Software--Defined%20Networking-1E3A8A?style=flat-square)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-334155?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
-
----
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Self Healing MLOps</h3>
-      <p>
-        A project focused on building an MLOps workflow that can detect model or data issues and trigger corrective actions such as monitoring, alerting, retraining, or rollback.
-      </p>
-      <p>
-        <strong>Focus:</strong> MLOps, monitoring, drift detection, automation, model lifecycle management
-      </p>
-      <p>
-        <a href="https://github.com/imarobot00/Self_healing_MLOPS">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPOSITORY_NAME&theme=github_dark&hide_border=true&bg_color=00000000" alt="Self Healing MLOps repository card" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Intrusion Detection System</h3>
-      <p>
-        A machine learning and networking project for detecting suspicious network activity using feature engineering, classification models, and evaluation metrics.
-      </p>
-      <p>
-        <strong>Focus:</strong> AI security, network traffic analysis, classification, evaluation
-      </p>
-      <p>
-        <a href="https://github.com/imarobot00/Smart-Intrusion-Analyzer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPOSITORY_NAME&theme=github_dark&hide_border=true&bg_color=00000000" alt="Intrusion Detection System repository card" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>RAG and LLM Engineering Projects</h3>
-      <p>
-        A collection of applied LLM systems covering hybrid retrieval, reranking, grounded generation, evaluation, and API serving.
-      </p>
-      <p>
-        <strong>Focus:</strong> RAG, LLM applications, vector databases, FastAPI, evaluation
-      </p>
-      <p>
-        <a href="">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPOSITORY_NAME&theme=github_dark&hide_border=true&bg_color=00000000" alt="RAG and LLM Engineering repository card" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 
 ---
 
