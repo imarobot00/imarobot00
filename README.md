@@ -60,17 +60,7 @@ I am especially interested in how AI systems move from experiments to reliable a
 
 ---
 
-## Current Learning Journey
 
-- Retrieval-Augmented Generation systems and LLM application architecture
-- Machine learning model training, evaluation, and deployment
-- Deep learning foundations and neural network architectures
-- AI security, intrusion detection, and adversarial system behavior
-- MLOps workflows for monitoring, retraining, and self-healing pipelines
-- Networking fundamentals for secure and intelligent infrastructure
-- Research methods, technical writing, and reproducible experimentation
-
----
 
 ## Technical Skills
 
@@ -187,18 +177,6 @@ I am especially interested in how AI systems move from experiments to reliable a
   </tr>
 </table>
 
----
-
-## Research Interests
-
-- Retrieval-Augmented Generation and hybrid retrieval systems
-- LLM evaluation, hallucination reduction, and grounded generation
-- AI security, adversarial behavior, and safe deployment practices
-- Intrusion detection and intelligent network defense
-- MLOps, model monitoring, and production ML systems
-- Deep learning for structured and unstructured data
-- Software-defined networking and intelligent infrastructure
-- Reproducible machine learning research
 
 ---
 
@@ -226,16 +204,6 @@ I am especially interested in how AI systems move from experiments to reliable a
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imarobot00&theme=github-dark&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub contribution activity graph" />
 
 </div>
-
----
-
-## Future Goals
-
-- Build production-quality AI engineering projects with strong evaluation and deployment practices.
-- Contribute to open-source projects in AI, ML infrastructure, RAG, and developer tooling.
-- Publish research-oriented experiments with clear methodology and reproducible results.
-- Strengthen systems design skills for scalable AI applications.
-- Develop deeper expertise in AI security, networking, and reliable LLM systems.
 
 ---
 
